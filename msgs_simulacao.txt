@@ -1,344 +1,364 @@
+[NOVATO] REP:  -1  DIA:  0: Ola, me aceite, por favor!
+[ATIVO]   REP: 0  DIA: 0: Ola, me aceite, por favor!
+[TROLL]   REP: -1  DIA: 0: Ola, me aceite, por favor!
 > Todos os usuarios foram aceitos pelo PIONEIRO.
-[PIONEIRO] no dia 1: Minha internet nao colabora
-[PIONEIRO] no dia 2: Soh paro quando passar de fase no Pokemon 
+[PIONEIRO] REP: 27 DIA: 1: Vou jogar Pokemon !
 > ATIVO deu like no post do PIONEIRO!
-[TROLL]  no  dia  2: Que camp de XXXXX 
+[PIONEIRO] REP: 29 DIA: 2: Comprei a edicao de colecionador, valeu cada centavo.
+[TROLL]   REP: 2  DIA: 2: Vou jogar Pokemon !
+> PIONEIRO deu like no post do TROLL!
+[ATIVO]   REP: 1  DIA: 2: Soh paro quando passar de fase no Pokemon 
+> PIONEIRO deu like no post do ATIVO!
+[PIONEIRO] REP: 28 DIA: 3: Dormir pra que? A XP não se farma sozinha
+[PIONEIRO] REP: 29 DIA: 4: Que camp de XXXXX 
+> ATIVO deu dislike no post do PIONEIRO!
+[TROLL]   REP: 4  DIA: 4: Vou jogar Pokemon !
+> PIONEIRO deu like no post do TROLL!
+> ATIVO deu like no post do TROLL!
+[ATIVO]   REP: 2  DIA: 4: Meu ping tah alto pra caramba.
+> TROLL deu dislike no post do ATIVO!
+[PIONEIRO] REP: 28 DIA: 5: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 28 DIA: 6: Que camp de XXXXX 
+[TROLL]   REP: 5  DIA: 6: Que camp de XXXXX 
 > PIONEIRO deu dislike no post do TROLL!
-[ATIVO]  no  dia  2: Alguem gosta de Starcraft ?
-[PIONEIRO] no dia 3: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[PIONEIRO] no dia 4: Comprei a edicao de colecionador, valeu cada centavo.
-[TROLL]  no  dia  4: Preciso de um headset novo, o meu tá com defeito.
-[ATIVO]  no  dia  4: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 5: Soh paro quando passar de fase no Pokemon 
+[ATIVO]   REP: 1  DIA: 6: Minha internet nao colabora
+[NOVATO] REP:  2  DIA:  6: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 28 DIA: 7: Soh paro quando passar de fase no Pokemon 
 > ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 6: Minha internet nao colabora
-[TROLL]  no  dia  6: Minha internet nao colabora
-[ATIVO]  no  dia  6: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[NOVATO] no  dia  6: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 7: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 8: Soh paro quando passar de fase no Pokemon 
-> ATIVO deu like no post do PIONEIRO!
-[TROLL]  no  dia  8: Comprei a edicao de colecionador, valeu cada centavo.
-[ATIVO]  no  dia  8: Vou jogar Pokemon !
-[PIONEIRO] no dia 9: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 10: Meu ping tah alto pra caramba.
-[TROLL]  no  dia  10: Minha internet nao colabora
-[ATIVO]  no  dia  10: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 11: Comprei a edicao de colecionador, valeu cada centavo.
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 12: Comprei a edicao de colecionador, valeu cada centavo.
-[TROLL]  no  dia  12: Minha internet nao colabora
-[ATIVO]  no  dia  12: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[NOVATO] no  dia  12: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 13: Vou jogar Pokemon !
-> TROLL deu dislike no post do PIONEIRO!
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 14: Alguem gosta de Starcraft ?
-[TROLL]  no  dia  14: Minha internet nao colabora
-[ATIVO]  no  dia  14: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 15: Vou jogar Pokemon !
-> TROLL deu dislike no post do PIONEIRO!
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 16: Vou jogar Pokemon !
-[TROLL]  no  dia  16: Dormir pra que? A XP não se farma sozinha
+[PIONEIRO] REP: 30 DIA: 8: Alguem gosta de Starcraft ?
+[TROLL]   REP: 5  DIA: 8: Vou jogar Pokemon !
 > PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  16: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[PIONEIRO] no dia 17: Vou jogar Pokemon !
+[ATIVO]   REP: 1  DIA: 8: Minha internet nao colabora
+> TROLL deu dislike no post do ATIVO!
+[PIONEIRO] REP: 30 DIA: 9: Minha internet nao colabora
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 10: Que camp de XXXXX 
+[TROLL]   REP: 5  DIA: 10: Que camp de XXXXX 
+> PIONEIRO deu dislike no post do TROLL!
+[ATIVO]   REP: 1  DIA: 10: Soh paro quando passar de fase no Pokemon 
+> PIONEIRO deu like no post do ATIVO!
+[PIONEIRO] REP: 29 DIA: 11: Preciso de um headset novo, o meu tá com defeito.
+[PIONEIRO] REP: 30 DIA: 12: Soh paro quando passar de fase no Pokemon 
+> ATIVO deu like no post do PIONEIRO!
+[TROLL]   REP: 5  DIA: 12: Vou jogar Pokemon !
+> PIONEIRO deu like no post do TROLL!
+> ATIVO deu like no post do TROLL!
+[ATIVO]   REP: 2  DIA: 12: Preciso de um headset novo, o meu tá com defeito.
+> TROLL deu dislike no post do ATIVO!
+[NOVATO] REP:  3  DIA:  12: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+> TROLL deu dislike no post do NOVATO!
+[PIONEIRO] REP: 30 DIA: 13: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 14: Que camp de XXXXX 
+[TROLL]   REP: 5  DIA: 14: Minha internet nao colabora
+[ATIVO]   REP: 1  DIA: 14: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 30 DIA: 15: Minha internet nao colabora
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 16: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[TROLL]   REP: 5  DIA: 16: Preciso de um headset novo, o meu tá com defeito.
+[ATIVO]   REP: 2  DIA: 16: Vou jogar Pokemon !
+> PIONEIRO deu like no post do ATIVO!
+[PIONEIRO] REP: 30 DIA: 17: Vou jogar Pokemon !
 > TROLL deu dislike no post do PIONEIRO!
 > ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 18: Soh paro quando passar de fase no Pokemon 
+[PIONEIRO] REP: 30 DIA: 18: Minha internet nao colabora
+[TROLL]   REP: 5  DIA: 18: Meu ping tah alto pra caramba.
+[ATIVO]   REP: 3  DIA: 18: Alguem gosta de Starcraft ?
+> PIONEIRO deu like no post do ATIVO!
+[NOVATO] REP:  3  DIA:  18: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 30 DIA: 19: Soh paro quando passar de fase no Pokemon 
 > TROLL deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  18: Alguem gosta de Starcraft ?
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 20: Preciso de um headset novo, o meu tá com defeito.
+[TROLL]   REP: 5  DIA: 20: Vou jogar Pokemon !
 > PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  18: Dormir pra que? A XP não se farma sozinha
-[NOVATO] no  dia  18: Dormir pra que? A XP não se farma sozinha
+> ATIVO deu like no post do TROLL!
+[ATIVO]   REP: 4  DIA: 20: Minha internet nao colabora
+> TROLL deu dislike no post do ATIVO!
+[PIONEIRO] REP: 30 DIA: 21: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 22: Vou jogar Pokemon !
+> TROLL deu dislike no post do PIONEIRO!
+> ATIVO deu like no post do PIONEIRO!
+[TROLL]   REP: 6  DIA: 22: Minha internet nao colabora
+[ATIVO]   REP: 2  DIA: 22: Que camp de XXXXX 
+> PIONEIRO deu dislike no post do ATIVO!
+[PIONEIRO] REP: 30 DIA: 23: Dormir pra que? A XP não se farma sozinha
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 24: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[TROLL]   REP: 5  DIA: 24: Soh paro quando passar de fase no Pokemon 
+> PIONEIRO deu like no post do TROLL!
+> ATIVO deu like no post do TROLL!
+[ATIVO]   REP: 2  DIA: 24: Minha internet nao colabora
+> TROLL deu dislike no post do ATIVO!
+[NOVATO] REP:  3  DIA:  24: Minha internet nao colabora
+> TROLL deu dislike no post do NOVATO!
+[PIONEIRO] REP: 30 DIA: 25: Alguem gosta de Starcraft ?
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 26: Meu ping tah alto pra caramba.
+[TROLL]   REP: 5  DIA: 26: Minha internet nao colabora
+[ATIVO]   REP: 1  DIA: 26: Alguem gosta de Starcraft ?
+> PIONEIRO deu like no post do ATIVO!
+[PIONEIRO] REP: 30 DIA: 27: Comprei a edicao de colecionador, valeu cada centavo.
+> TROLL deu dislike no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 28: Que camp de XXXXX 
+> ATIVO deu dislike no post do PIONEIRO!
+[TROLL]   REP: 5  DIA: 28: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[ATIVO]   REP: 2  DIA: 28: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 30 DIA: 29: Vou jogar Pokemon !
+> TROLL deu dislike no post do PIONEIRO!
+> ATIVO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 30: Dormir pra que? A XP não se farma sozinha
+[TROLL]   REP: 5  DIA: 30: Vou jogar Pokemon !
+> PIONEIRO deu like no post do TROLL!
+> ATIVO deu like no post do TROLL!
+[ATIVO]   REP: 2  DIA: 30: Que camp de XXXXX 
+> PIONEIRO deu dislike no post do ATIVO!
+> TROLL deu dislike no post do ATIVO!
+[NOVATO] REP:  3  DIA:  30: Vou jogar Pokemon !
 > PIONEIRO deu like no post do NOVATO!
 > TROLL deu dislike no post do NOVATO!
-[PIONEIRO] no dia 19: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 28 DIA: 31: Soh paro quando passar de fase no Pokemon 
 > TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 20: Meu ping tah alto pra caramba.
-[TROLL]  no  dia  20: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[ATIVO]  no  dia  20: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 21: Meu ping tah alto pra caramba.
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 22: Minha internet nao colabora
-[TROLL]  no  dia  22: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-[ATIVO]  no  dia  22: Minha internet nao colabora
-[PIONEIRO] no dia 23: Soh paro quando passar de fase no Pokemon 
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 24: Comprei a edicao de colecionador, valeu cada centavo.
-[TROLL]  no  dia  24: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  24: Minha internet nao colabora
-> TROLL deu dislike no post do ATIVO!
-[NOVATO] no  dia  24: Vou jogar Pokemon !
+> NOVATO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 29 DIA: 32: Que camp de XXXXX 
+[TROLL]   REP: 5  DIA: 32: Meu ping tah alto pra caramba.
+[ATIVO]   REP: 0  DIA: 32: Meu ping tah alto pra caramba.
+[NOVATO] REP:  3  DIA:  32: Soh paro quando passar de fase no Pokemon 
 > PIONEIRO deu like no post do NOVATO!
-[PIONEIRO] no dia 25: Que camp de XXXXX 
+[PIONEIRO] REP: 29 DIA: 33: Que camp de XXXXX 
 > TROLL deu dislike no post do PIONEIRO!
 > NOVATO deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 26: Minha internet nao colabora
-[TROLL]  no  dia  26: Vou jogar Pokemon !
-> PIONEIRO deu like no post do TROLL!
-> ATIVO deu like no post do TROLL!
-> NOVATO deu like no post do TROLL!
-[ATIVO]  no  dia  26: Vou jogar Pokemon !
-[PIONEIRO] no dia 27: Minha internet nao colabora
+[PIONEIRO] REP: 28 DIA: 34: Preciso de um headset novo, o meu tá com defeito.
+[TROLL]   REP: 5  DIA: 34: Minha internet nao colabora!
+[ATIVO]   REP: 0  DIA: 34: Que camp de XXXXX 
+> PIONEIRO deu dislike no post do ATIVO!
+> NOVATO deu dislike no post do ATIVO!
+[PIONEIRO] REP: 28 DIA: 35: Minha internet nao colabora
 > TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 28: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-> TROLL deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  28: Que camp de XXXXX 
+[PIONEIRO] REP: 28 DIA: 36: Vou jogar Pokemon !
+[TROLL]   REP: 5  DIA: 36: Que camp de XXXXX !!
 > PIONEIRO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  28: Vou jogar Pokemon !
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 29: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 30: Preciso de um headset novo, o meu tá com defeito.
-[TROLL]  no  dia  30: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  30: Minha internet nao colabora
-> TROLL deu dislike no post do ATIVO!
-[NOVATO] no  dia  30: Meu ping tah alto pra caramba.
-[PIONEIRO] no dia 31: Preciso de um headset novo, o meu tá com defeito.
+[ATIVO]   REP: -2  DIA: 36: Minha internet nao colabora
+[NOVATO] REP:  3  DIA:  36: Minha internet nao colabora
+[PIONEIRO] REP: 28 DIA: 37: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 29 DIA: 38: Que camp de XXXXX 
+> NOVATO deu dislike no post do PIONEIRO!
+[TROLL]   REP: 5  DIA: 38: Meu ping tah alto pra caramba.
+[ATIVO]   REP: -2  DIA: 38: Que camp de XXXXX 
+[PIONEIRO] REP: 29 DIA: 39: Meu ping tah alto pra caramba.
 > TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 32: Alguem gosta de Starcraft ?
-[TROLL]  no  dia  32: Meu ping tah alto pra caramba.
-[ATIVO]  no  dia  32: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 33: Minha internet nao colabora
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 34: Soh paro quando passar de fase no Pokemon 
+[PIONEIRO] REP: 29 DIA: 40: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[TROLL]   REP: 5  DIA: 40: XXXXX XXXXX XXXXX.
+> PIONEIRO deu dislike no post do TROLL!
+[ATIVO]   REP: 2  DIA: 40: Preciso de um headset novo, o meu tá com defeito.
+[NOVATO] REP:  3  DIA:  40: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 29 DIA: 41: Soh paro quando passar de fase no Pokemon 
 > ATIVO deu like no post do PIONEIRO!
 > NOVATO deu like no post do PIONEIRO!
-[TROLL]  no  dia  34: Minha internet nao colabora!
-[ATIVO]  no  dia  34: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 35: Dormir pra que? A XP não se farma sozinha
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 36: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-> NOVATO deu like no post do PIONEIRO!
-[TROLL]  no  dia  36: Desinstala, XXXXX !
+[PIONEIRO] REP: 30 DIA: 42: Que camp de XXXXX 
+[TROLL]   REP: 5  DIA: 42: Esse XXXXX nao sabe o que é objetivo!
 > PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  36: Soh paro quando passar de fase no Pokemon 
+[ATIVO]   REP: 2  DIA: 42: Alguem gosta de Starcraft ?
 > PIONEIRO deu like no post do ATIVO!
-[NOVATO] no  dia  36: Preciso de um headset novo, o meu tá com defeito.
-[PIONEIRO] no dia 37: Minha internet nao colabora
-[PIONEIRO] no dia 38: Dormir pra que? A XP não se farma sozinha
-[TROLL]  no  dia  38: Tá dando zika no meu jogo, XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  38: Soh paro quando passar de fase no Pokemon 
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 39: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 40: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-[TROLL]  no  dia  40: Que camp de XXXXX !!
-[ATIVO]  no  dia  40: Preciso de um headset novo, o meu tá com defeito.
-[PIONEIRO] no dia 41: Que camp de XXXXX 
+[PIONEIRO] REP: 29 DIA: 43: Que camp de XXXXX 
 > ATIVO deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 42: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-[TROLL]  no  dia  42: Esse XXXXX nao sabe o que é objetivo!
+[PIONEIRO] REP: 29 DIA: 44: Meu ping tah alto pra caramba.
+[TROLL]   REP: 5  DIA: 44: Esse XXXXX nao sabe o que é objetivo!
 > PIONEIRO deu dislike no post do TROLL!
 > ATIVO deu dislike no post do TROLL!
-[ATIVO]  no  dia  42: Alguem gosta de Starcraft ?
+[ATIVO]   REP: 3  DIA: 44: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[NOVATO] REP:  3  DIA:  44: Dormir pra que? A XP não se farma sozinha
+> PIONEIRO deu like no post do NOVATO!
+[PIONEIRO] REP: 28 DIA: 45: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 29 DIA: 46: Que camp de XXXXX 
+> ATIVO deu dislike no post do PIONEIRO!
+> NOVATO deu dislike no post do PIONEIRO!
+[TROLL]   REP: 4  DIA: 46: Desinstala, XXXXX !
+> PIONEIRO deu dislike no post do TROLL!
+> NOVATO deu dislike no post do TROLL!
+[ATIVO]   REP: 2  DIA: 46: Dormir pra que? A XP não se farma sozinha
 > PIONEIRO deu like no post do ATIVO!
-[NOVATO] no  dia  42: Vou jogar Pokemon !
+[PIONEIRO] REP: 26 DIA: 47: Preciso de um headset novo, o meu tá com defeito.
+[PIONEIRO] REP: 27 DIA: 48: Que camp de XXXXX 
+> ATIVO deu dislike no post do PIONEIRO!
+[TROLL]   REP: 3  DIA: 48: Que camp de XXXXX !!
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+[ATIVO]   REP: 3  DIA: 48: Meu ping tah alto pra caramba.
+[NOVATO] REP:  3  DIA:  48: Alguem gosta de Starcraft ?
+> PIONEIRO deu like no post do NOVATO!
+[PIONEIRO] REP: 25 DIA: 49: Minha internet nao colabora
+[PIONEIRO] REP: 26 DIA: 50: Minha internet nao colabora
+[TROLL]   REP: 2  DIA: 50: Esse XXXXX nao sabe o que é objetivo!
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+> NOVATO deu dislike no post do TROLL!
+[ATIVO]   REP: 3  DIA: 50: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 26 DIA: 51: Alguem gosta de Starcraft ?
+[PIONEIRO] REP: 27 DIA: 52: Vou jogar Pokemon !
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[TROLL]   REP: 0  DIA: 52: XXXXX XXXXX XXXXX.
+> PIONEIRO deu dislike no post do TROLL!
+[ATIVO]   REP: 2  DIA: 52: Minha internet nao colabora
+[NOVATO] REP:  3  DIA:  52: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 29 DIA: 53: Minha internet nao colabora
+[PIONEIRO] REP: 30 DIA: 54: Alguem gosta de Starcraft ?
+[TROLL]   REP: -1  DIA: 54: Tá dando zika no meu jogo, XXXXX 
+[ATIVO]   REP: 3  DIA: 54: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 30 DIA: 55: Alguem gosta de Starcraft ?
+[PIONEIRO] REP: 30 DIA: 56: Que camp de XXXXX 
+> ATIVO deu dislike no post do PIONEIRO!
+> NOVATO deu dislike no post do PIONEIRO!
+[TROLL]   REP: -1  DIA: 56: Minha internet nao colabora!
+[ATIVO]   REP: 3  DIA: 56: Vou jogar Pokemon !
+> PIONEIRO deu like no post do ATIVO!
+[NOVATO] REP:  3  DIA:  56: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 28 DIA: 57: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 29 DIA: 58: Preciso de um headset novo, o meu tá com defeito.
+[TROLL]   REP: -1  DIA: 58: XXXXX XXXXX XXXXX.
+[ATIVO]   REP: 5  DIA: 58: Dormir pra que? A XP não se farma sozinha
+> PIONEIRO deu like no post do ATIVO!
+[PIONEIRO] REP: 29 DIA: 59: Alguem gosta de Starcraft ?
+[PIONEIRO] REP: 30 DIA: 60: Vou jogar Pokemon !
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[TROLL]   REP: 3  DIA: 60: Que camp de XXXXX !!
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+[ATIVO]   REP: 6  DIA: 60: Preciso de um headset novo, o meu tá com defeito.
+[NOVATO] REP:  3  DIA:  60: Minha internet nao colabora
+[PIONEIRO] REP: 30 DIA: 61: Vou jogar Pokemon !
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 62: Soh paro quando passar de fase no Pokemon 
+> ATIVO deu like no post do PIONEIRO!
+[TROLL]   REP: 2  DIA: 62: Esse XXXXX não sabe o que eh objetivo
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+[ATIVO]   REP: 4  DIA: 62: Preciso de um headset novo, o meu tá com defeito.
+[NOVATO] REP:  3  DIA:  62: Alguem gosta de Starcraft ?
+> PIONEIRO deu like no post do NOVATO!
+[PIONEIRO] REP: 29 DIA: 63: Alguem gosta de Starcraft ?
+[PIONEIRO] REP: 30 DIA: 64: Meu ping tah alto pra caramba.
+[TROLL]   REP: 1  DIA: 64: Desinstala essa XXXXX !
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+> NOVATO deu dislike no post do TROLL!
+[ATIVO]   REP: 4  DIA: 64: Dormir pra que? A XP não se farma sozinha
+> PIONEIRO deu like no post do ATIVO!
+[NOVATO] REP:  4  DIA:  64: Vou jogar Pokemon !
 > PIONEIRO deu like no post do NOVATO!
 > ATIVO deu like no post do NOVATO!
-[PIONEIRO] no dia 43: Soh paro quando passar de fase no Pokemon 
+[PIONEIRO] REP: 28 DIA: 65: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 29 DIA: 66: Soh paro quando passar de fase no Pokemon 
 > ATIVO deu like no post do PIONEIRO!
 > NOVATO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 44: Que camp de XXXXX 
-> ATIVO deu dislike no post do PIONEIRO!
-> NOVATO deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  44: Tá dando zika no meu jogo, XXXXX 
-[ATIVO]  no  dia  44: Preciso de um headset novo, o meu tá com defeito.
-[PIONEIRO] no dia 45: Meu ping tah alto pra caramba.
-[PIONEIRO] no dia 46: Que camp de XXXXX 
-> ATIVO deu dislike no post do PIONEIRO!
-> NOVATO deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  46: Tá dando zika no meu jogo, XXXXX 
+[TROLL]   REP: -1  DIA: 66: Desinstala essa XXXXX !
+[ATIVO]   REP: 3  DIA: 66: Vou jogar Pokemon !
+> PIONEIRO deu like no post do ATIVO!
+> NOVATO deu like no post do ATIVO!
+[NOVATO] REP:  6  DIA:  66: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 30 DIA: 67: Soh paro quando passar de fase no Pokemon 
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 68: Comprei a edicao de colecionador, valeu cada centavo.
+[TROLL]   REP: -1  DIA: 68: FORUM DE XXXXX 
+[ATIVO]   REP: 5  DIA: 68: Preciso de um headset novo, o meu tá com defeito.
+[NOVATO] REP:  5  DIA:  68: Alguem gosta de Starcraft ?
+> PIONEIRO deu like no post do NOVATO!
+[PIONEIRO] REP: 30 DIA: 69: Dormir pra que? A XP não se farma sozinha
+[PIONEIRO] REP: 30 DIA: 70: Preciso de um headset novo, o meu tá com defeito.
+[TROLL]   REP: -1  DIA: 70: Sua vida eh um XXXXX de XXXXX.
+[ATIVO]   REP: 6  DIA: 70: Vou jogar Pokemon !
+> PIONEIRO deu like no post do ATIVO!
+> NOVATO deu like no post do ATIVO!
+[NOVATO] REP:  7  DIA:  70: Soh paro quando passar de fase no Pokemon 
+> PIONEIRO deu like no post do NOVATO!
+> ATIVO deu like no post do NOVATO!
+[PIONEIRO] REP: 29 DIA: 71: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 30 DIA: 72: Minha internet nao colabora
+[TROLL]   REP: -1  DIA: 72: Tah dando zika no meu jogo, XXXXX 
+[ATIVO]   REP: 8  DIA: 72: Minha internet nao colabora
+[NOVATO] REP:  9  DIA:  72: Vou jogar Pokemon !
+> PIONEIRO deu like no post do NOVATO!
+> ATIVO deu like no post do NOVATO!
+[PIONEIRO] REP: 30 DIA: 73: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 30 DIA: 74: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[TROLL]   REP: 3  DIA: 74: Desinstala essa XXXXX !
 > PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
 > NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  46: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 47: Alguem gosta de Starcraft ?
-[PIONEIRO] no dia 48: Alguem gosta de Starcraft ?
-[TROLL]  no  dia  48: Meu ping tah alto pra caramba.
-[ATIVO]  no  dia  48: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[NOVATO] no  dia  48: Que camp de XXXXX 
+[ATIVO]   REP: 8  DIA: 74: Minha internet nao colabora
+[NOVATO] REP:  11  DIA:  74: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[PIONEIRO] REP: 30 DIA: 75: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 30 DIA: 76: Alguem gosta de Starcraft ?
+[TROLL]   REP: 1  DIA: 76: Ok XXXXX 
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+> NOVATO deu dislike no post do TROLL!
+[ATIVO]   REP: 8  DIA: 76: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[NOVATO] REP:  11  DIA:  76: Que camp de XXXXX 
 > PIONEIRO deu dislike no post do NOVATO!
-[PIONEIRO] no dia 49: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 50: Que camp de XXXXX 
-[TROLL]  no  dia  50: Soh paro quando passar de fase no Pokemon 
-> PIONEIRO deu like no post do TROLL!
-> ATIVO deu like no post do TROLL!
-[ATIVO]  no  dia  50: Que camp de XXXXX 
-[PIONEIRO] no dia 51: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 52: Minha internet nao colabora
-[TROLL]  no  dia  52: Dormir pra que? A XP não se farma sozinha!
-> PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  52: Soh paro quando passar de fase no Pokemon 
-> PIONEIRO deu like no post do ATIVO!
-> TROLL deu dislike no post do ATIVO!
-[PIONEIRO] no dia 53: Minha internet nao colabora
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 54: Soh paro quando passar de fase no Pokemon 
-> ATIVO deu like no post do PIONEIRO!
-[TROLL]  no  dia  54: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do TROLL!
-[ATIVO]  no  dia  54: Meu ping tah alto pra caramba.
-> TROLL deu dislike no post do ATIVO!
-[NOVATO] no  dia  54: Minha internet nao colabora
-[PIONEIRO] no dia 55: Meu ping tah alto pra caramba.
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 56: Minha internet nao colabora
-[TROLL]  no  dia  56: Meu ping tah alto pra caramba.
-[ATIVO]  no  dia  56: Vou jogar Pokemon !
-> PIONEIRO deu like no post do ATIVO!
-> NOVATO deu like no post do ATIVO!
-[PIONEIRO] no dia 57: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-> TROLL deu dislike no post do PIONEIRO!
-[PIONEIRO] no dia 58: Preciso de um headset novo, o meu tá com defeito.
-[TROLL]  no  dia  58: Esse XXXXX nao sabe o que é objetivo!
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  58: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 59: Meu ping tah alto pra caramba.
-[PIONEIRO] no dia 60: Que camp de XXXXX 
-> ATIVO deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  60: Meu ping tah alto pra caramba.
-[ATIVO]  no  dia  60: Vou jogar Pokemon !
-> PIONEIRO deu like no post do ATIVO!
-[NOVATO] no  dia  60: Vou jogar Pokemon !
-> PIONEIRO deu like no post do NOVATO!
-> ATIVO deu like no post do NOVATO!
-[PIONEIRO] no dia 61: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 62: Preciso de um headset novo, o meu tá com defeito.
-[TROLL]  no  dia  62: Voce fede a XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  62: Vou jogar Pokemon !
-> PIONEIRO deu like no post do ATIVO!
-> NOVATO deu like no post do ATIVO!
-[PIONEIRO] no dia 63: Vou jogar Pokemon !
+> ATIVO deu dislike no post do NOVATO!
+[PIONEIRO] REP: 29 DIA: 77: Soh paro quando passar de fase no Pokemon 
 > ATIVO deu like no post do PIONEIRO!
 > NOVATO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 64: Minha internet nao colabora
-[TROLL]  no  dia  64: Sua vida eh um XXXXX de XXXXX.
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  64: Vou jogar Pokemon !
-> PIONEIRO deu like no post do ATIVO!
-> NOVATO deu like no post do ATIVO!
-[PIONEIRO] no dia 65: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-> NOVATO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 66: Dormir pra que? A XP não se farma sozinha
-[ATIVO]  no  dia  66: Minha internet nao colabora
-[NOVATO] no  dia  66: Dormir pra que? A XP não se farma sozinha
-> PIONEIRO deu like no post do NOVATO!
-[PIONEIRO] no dia 67: Minha internet nao colabora
-[PIONEIRO] no dia 68: Que camp de XXXXX 
-> ATIVO deu dislike no post do PIONEIRO!
-> NOVATO deu dislike no post do PIONEIRO!
-[ATIVO]  no  dia  68: Minha internet nao colabora
-[PIONEIRO] no dia 69: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 70: Soh paro quando passar de fase no Pokemon 
-> ATIVO deu like no post do PIONEIRO!
-> NOVATO deu like no post do PIONEIRO!
-[ATIVO]  no  dia  70: Que camp de XXXXX 
+[PIONEIRO] REP: 30 DIA: 78: Dormir pra que? A XP não se farma sozinha
+[TROLL]   REP: -1  DIA: 78: Sua vida eh um XXXXX de XXXXX.
+[ATIVO]   REP: 6  DIA: 78: Que camp de XXXXX 
 > PIONEIRO deu dislike no post do ATIVO!
 > NOVATO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 71: Meu ping tah alto pra caramba.
-[PIONEIRO] no dia 72: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[ATIVO]  no  dia  72: Vou jogar Pokemon !
+[NOVATO] REP:  9  DIA:  78: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 30 DIA: 79: Minha internet nao colabora
+[PIONEIRO] REP: 30 DIA: 80: Meu ping tah alto pra caramba.
+[TROLL]   REP: -1  DIA: 80: Esse XXXXX não sabe o que eh objetivo
+[ATIVO]   REP: 5  DIA: 80: Dormir pra que? A XP não se farma sozinha
 > PIONEIRO deu like no post do ATIVO!
-> NOVATO deu like no post do ATIVO!
-[NOVATO] no  dia  72: Vou jogar Pokemon !
+[NOVATO] REP:  9  DIA:  80: Minha internet nao colabora
+[PIONEIRO] REP: 30 DIA: 81: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 30 DIA: 82: Meu ping tah alto pra caramba.
+[TROLL]   REP: -1  DIA: 82: Desinstala essa XXXXX !
+[ATIVO]   REP: 7  DIA: 82: Meu ping tah alto pra caramba.
+[NOVATO] REP:  10  DIA:  82: Alguem gosta de Starcraft ?
 > PIONEIRO deu like no post do NOVATO!
-> ATIVO deu like no post do NOVATO!
-[PIONEIRO] no dia 73: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 74: Comprei a edicao de colecionador, valeu cada centavo.
-[TROLL]  no  dia  74: Voce fede a XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  74: Dormir pra que? A XP não se farma sozinha
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 75: Vou jogar Pokemon !
-> ATIVO deu like no post do PIONEIRO!
-> NOVATO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 76: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[TROLL]  no  dia  76: Ok XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  76: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 77: Minha internet nao colabora
-[PIONEIRO] no dia 78: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[ATIVO]  no  dia  78: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[NOVATO] no  dia  78: Soh paro quando passar de fase no Pokemon 
-> PIONEIRO deu like no post do NOVATO!
-> ATIVO deu like no post do NOVATO!
-[PIONEIRO] no dia 79: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[PIONEIRO] no dia 80: Dormir pra que? A XP não se farma sozinha
-[ATIVO]  no  dia  80: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do ATIVO!
-[PIONEIRO] no dia 81: Dormir pra que? A XP não se farma sozinha
-[PIONEIRO] no dia 82: Dormir pra que? A XP não se farma sozinha
-[ATIVO]  no  dia  82: Soh paro quando passar de fase no Pokemon 
-> PIONEIRO deu like no post do ATIVO!
-> NOVATO deu like no post do ATIVO!
-[PIONEIRO] no dia 83: Meu ping tah alto pra caramba.
-[PIONEIRO] no dia 84: Dormir pra que? A XP não se farma sozinha
-[ATIVO]  no  dia  84: Alguem gosta de Starcraft ?
-> PIONEIRO deu like no post do ATIVO!
-[NOVATO] no  dia  84: Preciso de um headset novo, o meu tá com defeito.
-[PIONEIRO] no dia 85: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[PIONEIRO] no dia 86: Que camp de XXXXX 
+[PIONEIRO] REP: 30 DIA: 83: Que camp de XXXXX 
 > ATIVO deu dislike no post do PIONEIRO!
 > NOVATO deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  86: Tah dando zika no meu jogo, XXXXX 
+[PIONEIRO] REP: 29 DIA: 84: Preciso de um headset novo, o meu tá com defeito.
+[TROLL]   REP: -1  DIA: 84: XXXXX XXXXX XXXXX.
+[ATIVO]   REP: 7  DIA: 84: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[NOVATO] REP:  11  DIA:  84: Preciso de um headset novo, o meu tá com defeito.
+[PIONEIRO] REP: 30 DIA: 85: Meu ping tah alto pra caramba.
+[PIONEIRO] REP: 30 DIA: 86: Minha internet nao colabora
+[TROLL]   REP: 3  DIA: 86: Esse XXXXX não sabe o que eh objetivo
 > PIONEIRO deu dislike no post do TROLL!
 > ATIVO deu dislike no post do TROLL!
 > NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  86: Que camp de XXXXX 
-> PIONEIRO deu dislike no post do ATIVO!
-> NOVATO deu dislike no post do ATIVO!
-[PIONEIRO] no dia 87: Minha internet nao colabora
-[PIONEIRO] no dia 88: Que camp de XXXXX 
-> ATIVO deu dislike no post do PIONEIRO!
-> NOVATO deu dislike no post do PIONEIRO!
-[TROLL]  no  dia  88: Que lancamento de XXXXX 
-> PIONEIRO deu dislike no post do TROLL!
-> ATIVO deu dislike no post do TROLL!
-> NOVATO deu dislike no post do TROLL!
-[ATIVO]  no  dia  88: Comprei a edicao de colecionador, valeu cada centavo.
-[PIONEIRO] no dia 89: Soh paro quando passar de fase no Pokemon 
-> ATIVO deu like no post do PIONEIRO!
-> NOVATO deu like no post do PIONEIRO!
-[PIONEIRO] no dia 90: Perdi a nocao do tempo, já amanheceu e eu nem vi.
-[ATIVO]  no  dia  90: Vou jogar Pokemon !
+[ATIVO]   REP: 8  DIA: 86: Soh paro quando passar de fase no Pokemon 
 > PIONEIRO deu like no post do ATIVO!
 > NOVATO deu like no post do ATIVO!
-[NOVATO] no  dia  90: Soh paro quando passar de fase no Pokemon 
+[NOVATO] REP:  11  DIA:  86: Comprei a edicao de colecionador, valeu cada centavo.
+[PIONEIRO] REP: 29 DIA: 87: Vou jogar Pokemon !
+> ATIVO deu like no post do PIONEIRO!
+> NOVATO deu like no post do PIONEIRO!
+[PIONEIRO] REP: 30 DIA: 88: Comprei a edicao de colecionador, valeu cada centavo.
+[TROLL]   REP: 1  DIA: 88: Ok XXXXX 
+> PIONEIRO deu dislike no post do TROLL!
+> ATIVO deu dislike no post do TROLL!
+> NOVATO deu dislike no post do TROLL!
+[ATIVO]   REP: 9  DIA: 88: Vou jogar Pokemon !
+> PIONEIRO deu like no post do ATIVO!
+> NOVATO deu like no post do ATIVO!
+[NOVATO] REP:  9  DIA:  88: Vou jogar Pokemon !
 > PIONEIRO deu like no post do NOVATO!
 > ATIVO deu like no post do NOVATO!
+[PIONEIRO] REP: 28 DIA: 89: Dormir pra que? A XP não se farma sozinha
+[PIONEIRO] REP: 29 DIA: 90: Perdi a nocao do tempo, já amanheceu e eu nem vi.
+[TROLL]   REP: -1  DIA: 90: XXXXX XXXXX XXXXX.
+[ATIVO]   REP: 10  DIA: 90: Dormir pra que? A XP não se farma sozinha
+> PIONEIRO deu like no post do ATIVO!
+[NOVATO] REP:  11  DIA:  90: Perdi a nocao do tempo, já amanheceu e eu nem vi.
