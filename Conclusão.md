@@ -5,7 +5,7 @@ A simulação de 90 dias mostrou que um fórum descentralizado baseado em reputa
 
 * O Pioneiro, como criador do fórum público, já começava com 30 de reputação e podia ser mais ativo do que os demais membros. Já o Ativo manteve uma postura constante de colaboração, postando e reagindo aos posts sempre que conseguia reputação suficiente. Como gastava reputação com muita frequência, no entanto, chegou a ser sobrepujado pelo Troll em algumas simulações, pois o mesmo só dava dislike em suas postagens.
 
-* O Novato, inicialmente inseguro e com pouca participação, foi ganhando reputação aos poucos conforme postava no fórum. Após ficar com a reputação acima de 5, passou a agir como um usuário Ativo, avaliando o conteúdo dos outros, o que simulou o processo natural de integração de novos membros em comunidades online.
+* O Novato, inicialmente inseguro e com pouca participação, foi ganhando reputação aos poucos conforme postava no fórum. Após o terceiro mês, menos cauteloso, passou a postar com a frequência de um usuário Ativo, avaliando o conteúdo dos outros, o que simulou o processo natural de integração de novos membros em comunidades online.
 
 ### Evolução do histórico de reputação:
 
