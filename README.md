@@ -40,10 +40,12 @@ Cada usuário possui um comportamento programado:
 
 ### Novato
 - É o menos ativo e interage pouco.
-- Posta a cada 6 dias.
-- Nunca dá like/dislike.
+- Primeiro mês: posta a cada 6 dias.
+- Segundo mês: posta a cada 4 dias.
+- Terceiro mês: posta a cada 2 dias.
+- Sempre dá like em postagens que mencionem `Pokemon`, desde que esteja com a própria reputação maior que 5.
+- Sempre dá dislike em postagens de usuários que desrespeitem as regras do fórum, desde que esteja com a própria reputação maior que 2.
 - Tem 10% de chance de postar conteúdo impróprio.
-- Passa a se *comportar como usuário Ativo* quando atinge 5 de reputação.
 
 ### Conteúdo impróprio:
 Termos marcados como `XXXXX` nas mensagens. Simula palavras que violem as regras da comunidade.
