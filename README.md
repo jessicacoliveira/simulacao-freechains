@@ -1,4 +1,4 @@
-# Simulação de Fórum sobre jogos com Freechains
+# Simulação de Fórum sobre Jogos com Freechains
 
 ## Objetivo da simulação:
 Observar a evolução da reputação dos usuários e as dinâmicas de interação entre diferentes perfis ao longo de 90 dias. A simulação foca em como esses usuários postam conteúdo, reagem a postagens de outros e como o "conteúdo impróprio" é tratado com base nas regras de comportamento definidas para cada perfil.
