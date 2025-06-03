@@ -18,13 +18,14 @@ Esse problema foi identificado em múltiplos testes e, embora o código da simul
 
 Além da sobrevida inesperada ao usuário Troll quando ele já deveria ter sido neutralizado, não foi observado maiores impactos durante a simulação.
 
-Observe no trecho abaixo que no dia 63 a reputação do Troll zerou. Nos dias 64, 66, 68 e 70 (dias pares) ele tentou postar sem sucesso (prints e reações só acontecem quando o bloco é identificado no heads). No dia 71, *o TROLL recebe um acréscimo de +4 de reputação* sem justificativa. A interação dos outros membros parece funcionar normalmente. Esse comportamento foi observado com o ATIVO também que também teve a reputação zerada em algumas simulações.
+Observe no trecho abaixo que no dia 63 a reputação do Troll zerou. Nos dias 64, 66, 68 e 70 (dias pares) ele tentou postar sem sucesso (prints e reações só acontecem quando o bloco é identificado no heads). No dia 71, *o TROLL recebe um acréscimo de +4 de reputação* sem justificativa. A interação dos outros membros parece funcionar normalmente. 
 
 ![Diferença](prints/print_dif_acrescimo1.jpg)
 ![Diferença](prints/print_dif_acrescimo2.jpg)
 ![Diferença](prints/print_dif_acrescimo3.jpg)
 ![Diferença](prints/print_dif_acrescimo4.jpg)
 
+Esse comportamento também foi observado com o ATIVO quando o mesmo teve a reputação zerada em algumas simulações. Sempre acontece após o usuário com reputação insuficiente tentar postar 4x sem sucesso.
 
 ### Pioneiro não perde reputação ao postar
 
