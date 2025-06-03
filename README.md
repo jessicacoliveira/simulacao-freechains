@@ -9,6 +9,7 @@ Para que o script rode corretamente, considere que:
 * É necessário ter o `gnome-terminal` instalado;
 * As portas 5000 até 5003 serão utilizadas;
 * A execução do script é **lenta**. Serão gerados 2 arquivos com os resultados da simulação: `reps_simulacao.txt` e `msgs_simulacao.txt` no diretório onde for executado o script;
+* Versão utilizada: Freechains v.0.10.1
 
 
 ## Funcionamento do fórum:
