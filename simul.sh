@@ -26,7 +26,8 @@ TROLL_PORTA=5003
 OUTPUT_FILE_REP="reps_simulacao.txt"
 OUTPUT_FILE_MSG="msgs_simulacao.txt"
 DEPURACAO="depuracao.txt"
-# Avançar no tempo (passar o número de dias como argumento) 
+
+# Avanca o tempo de todos os peers em n dias
 fastForward() {
     DAYS=$1 
     echo "Avançando $DAYS dia(s)..."
@@ -46,6 +47,7 @@ fastForward() {
 
 }
 
+# Sincroniza os dados entre os peers
 synchronizeUsers() {
     echo "Sincronizando..."
     for id in {1..3};
@@ -61,10 +63,12 @@ synchronizeUsers() {
     echo "Sincronizacao concluida"
 }
 
+# Retorna a rep de um usuario
 getUserReps() {
     echo $(./freechains --host=localhost:5000 chain $FORUM_NAME reps $1)
 }
 
+# Exibe a rep de todos os usuarios no forum no momento atual
 showAllUserReps() {
     echo
     echo "====== REPUTACAO DO FORUM ======"
@@ -85,7 +89,7 @@ showAllUserReps() {
     echo "================================="
     echo
 }
-
+# Exibe mensagem, autor, rep atual e o dia
 showPost(){
     ID=$1
     PORTA=$2  
@@ -111,7 +115,7 @@ showPost(){
        
 }
 
-
+# Escolhe aleatoriamente uma mensagem de um tipo (OK, NOT_OK, BAD) e publica
 pickAndPost() {
     TIPO=$1
     PORTA=$2
@@ -172,7 +176,8 @@ pickAndPost() {
 
     ./freechains --host="localhost:$PORTA" chain "$FORUM_NAME" post inline "$MESSAGE" --sign="$ID_PVTKEY"
 }
-
+# Verifica se o hash de um post feito esta entre os heads
+# Se o autor nao tinha rep suficiente ao postar, nao vai estar
 isInHeads() {
 	local hash="$1"
 	local porta="$2"
@@ -187,7 +192,7 @@ isInHeads() {
 	return 1 
 }
 
-
+# Verifica se um termo esta presente na msg
 findWord() {
     local texto="$1"
     local palavra="$2"
@@ -199,6 +204,7 @@ findWord() {
     fi
 }
 
+# Usuarios vao reagir de acordo com o conteudo e rep dos autores
 likeOrDislike() { # likeOrDislike user post_text keyword author_rep ID_msg
     local user=$1
     local post_text="$2"
@@ -473,34 +479,3 @@ echo
 echo "=== SIMULACAO TERMINOU ==="
 showAllUserReps | tee -a "$OUTPUT_FILE_REP"
 echo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
