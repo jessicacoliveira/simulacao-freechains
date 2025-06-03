@@ -25,8 +25,8 @@ REP TOTAL DO FORUM: 33
 ====== REPUTACAO DO FORUM ======
 DIA     : 2
 
-PIONEIRO: 29
-ATIVO   : 1
+PIONEIRO: 28
+ATIVO   : 2
 TROLL   : 2
 NOVATO  : 2
 
@@ -37,45 +37,21 @@ REP TOTAL DO FORUM: 34
 ====== REPUTACAO DO FORUM ======
 DIA     : 3
 
-PIONEIRO: 28
-ATIVO   : 3
-TROLL   : 4
+PIONEIRO: 27
+ATIVO   : 4
+TROLL   : 2
 NOVATO  : 2
 
-REP TOTAL DO FORUM: 37
+REP TOTAL DO FORUM: 35
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 4
 
-PIONEIRO: 29
-ATIVO   : 3
-TROLL   : 4
-NOVATO  : 2
-
-REP TOTAL DO FORUM: 38
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 5
-
 PIONEIRO: 28
-ATIVO   : 1
-TROLL   : 6
-NOVATO  : 2
-
-REP TOTAL DO FORUM: 37
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 6
-
-PIONEIRO: 28
-ATIVO   : 1
-TROLL   : 5
+ATIVO   : 4
+TROLL   : 2
 NOVATO  : 2
 
 REP TOTAL DO FORUM: 36
@@ -83,62 +59,86 @@ REP TOTAL DO FORUM: 36
 
 
 ====== REPUTACAO DO FORUM ======
+DIA     : 5
+
+PIONEIRO: 27
+ATIVO   : 6
+TROLL   : 4
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 39
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 6
+
+PIONEIRO: 29
+ATIVO   : 5
+TROLL   : 4
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 40
+=================================
+
+
+====== REPUTACAO DO FORUM ======
 DIA     : 7
 
-PIONEIRO: 28
-ATIVO   : 2
+PIONEIRO: 29
+ATIVO   : 7
 TROLL   : 5
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 38
+REP TOTAL DO FORUM: 44
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 8
 
-PIONEIRO: 30
-ATIVO   : 1
+PIONEIRO: 29
+ATIVO   : 6
 TROLL   : 5
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 39
+REP TOTAL DO FORUM: 43
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 9
 
-PIONEIRO: 30
-ATIVO   : 1
+PIONEIRO: 29
+ATIVO   : 8
 TROLL   : 6
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 40
+REP TOTAL DO FORUM: 46
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 10
 
-PIONEIRO: 30
-ATIVO   : 1
+PIONEIRO: 29
+ATIVO   : 8
 TROLL   : 5
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 39
+REP TOTAL DO FORUM: 45
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 11
 
-PIONEIRO: 29
-ATIVO   : 3
-TROLL   : 5
+PIONEIRO: 30
+ATIVO   : 9
+TROLL   : 6
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 40
+REP TOTAL DO FORUM: 48
 =================================
 
 
@@ -146,20 +146,116 @@ REP TOTAL DO FORUM: 40
 DIA     : 12
 
 PIONEIRO: 30
-ATIVO   : 3
+ATIVO   : 8
 TROLL   : 5
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 41
+REP TOTAL DO FORUM: 46
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 13
 
-PIONEIRO: 30
-ATIVO   : 1
+PIONEIRO: 28
+ATIVO   : 8
 TROLL   : 6
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 47
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 14
+
+PIONEIRO: 28
+ATIVO   : 8
+TROLL   : 5
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 46
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 15
+
+PIONEIRO: 28
+ATIVO   : 8
+TROLL   : 6
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 47
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 16
+
+PIONEIRO: 28
+ATIVO   : 8
+TROLL   : 5
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 46
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 17
+
+PIONEIRO: 27
+ATIVO   : 8
+TROLL   : 8
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 47
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 18
+
+PIONEIRO: 27
+ATIVO   : 8
+TROLL   : 7
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 46
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 19
+
+PIONEIRO: 24
+ATIVO   : 10
+TROLL   : 6
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 44
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 20
+
+PIONEIRO: 26
+ATIVO   : 9
+TROLL   : 5
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 43
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 21
+
+PIONEIRO: 24
+ATIVO   : 9
+TROLL   : 4
 NOVATO  : 3
 
 REP TOTAL DO FORUM: 40
@@ -167,23 +263,11 @@ REP TOTAL DO FORUM: 40
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 14
+DIA     : 22
 
-PIONEIRO: 30
-ATIVO   : 1
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 39
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 15
-
-PIONEIRO: 30
-ATIVO   : 2
-TROLL   : 6
+PIONEIRO: 25
+ATIVO   : 9
+TROLL   : 4
 NOVATO  : 3
 
 REP TOTAL DO FORUM: 41
@@ -191,10 +275,46 @@ REP TOTAL DO FORUM: 41
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 16
+DIA     : 23
 
-PIONEIRO: 30
-ATIVO   : 2
+PIONEIRO: 23
+ATIVO   : 10
+TROLL   : 6
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 42
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 24
+
+PIONEIRO: 23
+ATIVO   : 10
+TROLL   : 5
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 41
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 25
+
+PIONEIRO: 22
+ATIVO   : 9
+TROLL   : 6
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 41
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 26
+
+PIONEIRO: 24
+ATIVO   : 8
 TROLL   : 5
 NOVATO  : 3
 
@@ -203,10 +323,10 @@ REP TOTAL DO FORUM: 40
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 17
+DIA     : 27
 
-PIONEIRO: 30
-ATIVO   : 4
+PIONEIRO: 24
+ATIVO   : 10
 TROLL   : 6
 NOVATO  : 3
 
@@ -215,23 +335,59 @@ REP TOTAL DO FORUM: 43
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 18
+DIA     : 28
 
-PIONEIRO: 30
-ATIVO   : 3
+PIONEIRO: 24
+ATIVO   : 10
 TROLL   : 5
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 41
+REP TOTAL DO FORUM: 42
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 19
+DIA     : 29
 
-PIONEIRO: 30
-ATIVO   : 5
+PIONEIRO: 23
+ATIVO   : 11
 TROLL   : 6
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 43
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 30
+
+PIONEIRO: 23
+ATIVO   : 11
+TROLL   : 5
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 42
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 31
+
+PIONEIRO: 24
+ATIVO   : 12
+TROLL   : 6
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 46
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 32
+
+PIONEIRO: 24
+ATIVO   : 12
+TROLL   : 5
 NOVATO  : 4
 
 REP TOTAL DO FORUM: 45
@@ -239,11 +395,59 @@ REP TOTAL DO FORUM: 45
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 20
+DIA     : 33
 
-PIONEIRO: 30
-ATIVO   : 4
-TROLL   : 5
+PIONEIRO: 22
+ATIVO   : 12
+TROLL   : 3
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 39
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 34
+
+PIONEIRO: 24
+ATIVO   : 11
+TROLL   : 3
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 40
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 35
+
+PIONEIRO: 24
+ATIVO   : 13
+TROLL   : 4
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 43
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 36
+
+PIONEIRO: 24
+ATIVO   : 12
+TROLL   : 4
+NOVATO  : 2
+
+REP TOTAL DO FORUM: 42
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 37
+
+PIONEIRO: 23
+ATIVO   : 13
+TROLL   : 3
 NOVATO  : 3
 
 REP TOTAL DO FORUM: 42
@@ -251,11 +455,11 @@ REP TOTAL DO FORUM: 42
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 21
+DIA     : 38
 
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : 7
+PIONEIRO: 24
+ATIVO   : 13
+TROLL   : 3
 NOVATO  : 3
 
 REP TOTAL DO FORUM: 43
@@ -263,288 +467,84 @@ REP TOTAL DO FORUM: 43
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 22
-
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 42
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 23
-
-PIONEIRO: 30
-ATIVO   : 2
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 41
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 24
-
-PIONEIRO: 30
-ATIVO   : 2
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 40
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 25
-
-PIONEIRO: 30
-ATIVO   : 1
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 40
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 26
-
-PIONEIRO: 30
-ATIVO   : 1
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 39
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 27
-
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 42
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 28
-
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 41
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 29
-
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 42
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 30
-
-PIONEIRO: 30
-ATIVO   : 2
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 40
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 31
-
-PIONEIRO: 28
-ATIVO   : 0
-TROLL   : 6
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 38
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 32
-
-PIONEIRO: 29
-ATIVO   : 0
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 37
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 33
-
-PIONEIRO: 29
-ATIVO   : 0
-TROLL   : 6
-NOVATO  : 5
-
-REP TOTAL DO FORUM: 40
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 34
-
-PIONEIRO: 28
-ATIVO   : 0
-TROLL   : 5
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 37
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 35
-
-PIONEIRO: 28
-ATIVO   : -2
-TROLL   : 6
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 35
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 36
-
-PIONEIRO: 28
-ATIVO   : -2
-TROLL   : 5
-NOVATO  : 3
-
-REP TOTAL DO FORUM: 34
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 37
-
-PIONEIRO: 28
-ATIVO   : -2
-TROLL   : 5
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 35
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 38
-
-PIONEIRO: 29
-ATIVO   : -2
-TROLL   : 5
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 36
-=================================
-
-
-====== REPUTACAO DO FORUM ======
 DIA     : 39
 
-PIONEIRO: 29
-ATIVO   : 2
-TROLL   : 6
+PIONEIRO: 24
+ATIVO   : 13
+TROLL   : 4
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 40
+REP TOTAL DO FORUM: 44
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 40
 
-PIONEIRO: 29
-ATIVO   : 2
-TROLL   : 5
+PIONEIRO: 25
+ATIVO   : 13
+TROLL   : 4
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 39
+REP TOTAL DO FORUM: 45
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 41
 
-PIONEIRO: 29
-ATIVO   : 3
-TROLL   : 5
-NOVATO  : 4
+PIONEIRO: 24
+ATIVO   : 13
+TROLL   : 3
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 41
+REP TOTAL DO FORUM: 45
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 42
 
-PIONEIRO: 30
-ATIVO   : 2
-TROLL   : 5
-NOVATO  : 3
+PIONEIRO: 25
+ATIVO   : 13
+TROLL   : 3
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 40
+REP TOTAL DO FORUM: 46
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 43
 
-PIONEIRO: 29
-ATIVO   : 4
-TROLL   : 5
-NOVATO  : 3
+PIONEIRO: 25
+ATIVO   : 12
+TROLL   : 6
+NOVATO  : 4
 
-REP TOTAL DO FORUM: 41
+REP TOTAL DO FORUM: 47
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 44
 
-PIONEIRO: 29
-ATIVO   : 3
+PIONEIRO: 25
+ATIVO   : 12
 TROLL   : 5
-NOVATO  : 3
+NOVATO  : 4
 
-REP TOTAL DO FORUM: 40
+REP TOTAL DO FORUM: 46
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 45
 
-PIONEIRO: 28
-ATIVO   : 3
+PIONEIRO: 22
+ATIVO   : 10
 TROLL   : 4
-NOVATO  : 5
+NOVATO  : 4
 
 REP TOTAL DO FORUM: 40
 =================================
@@ -553,10 +553,10 @@ REP TOTAL DO FORUM: 40
 ====== REPUTACAO DO FORUM ======
 DIA     : 46
 
-PIONEIRO: 29
-ATIVO   : 3
+PIONEIRO: 23
+ATIVO   : 10
 TROLL   : 4
-NOVATO  : 5
+NOVATO  : 4
 
 REP TOTAL DO FORUM: 41
 =================================
@@ -565,34 +565,34 @@ REP TOTAL DO FORUM: 41
 ====== REPUTACAO DO FORUM ======
 DIA     : 47
 
-PIONEIRO: 26
-ATIVO   : 4
+PIONEIRO: 20
+ATIVO   : 8
 TROLL   : 3
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 36
+REP TOTAL DO FORUM: 34
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 48
 
-PIONEIRO: 27
-ATIVO   : 4
+PIONEIRO: 21
+ATIVO   : 8
 TROLL   : 3
 NOVATO  : 3
 
-REP TOTAL DO FORUM: 37
+REP TOTAL DO FORUM: 35
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 49
 
-PIONEIRO: 25
-ATIVO   : 3
+PIONEIRO: 19
+ATIVO   : 8
 TROLL   : 2
-NOVATO  : 5
+NOVATO  : 6
 
 REP TOTAL DO FORUM: 35
 =================================
@@ -601,8 +601,8 @@ REP TOTAL DO FORUM: 35
 ====== REPUTACAO DO FORUM ======
 DIA     : 50
 
-PIONEIRO: 26
-ATIVO   : 3
+PIONEIRO: 22
+ATIVO   : 7
 TROLL   : 2
 NOVATO  : 5
 
@@ -613,33 +613,81 @@ REP TOTAL DO FORUM: 36
 ====== REPUTACAO DO FORUM ======
 DIA     : 51
 
-PIONEIRO: 26
-ATIVO   : 3
-TROLL   : 0
-NOVATO  : 4
+PIONEIRO: 22
+ATIVO   : 8
+TROLL   : 4
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 33
+REP TOTAL DO FORUM: 39
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 52
 
-PIONEIRO: 27
-ATIVO   : 3
-TROLL   : 0
+PIONEIRO: 25
+ATIVO   : 7
+TROLL   : 4
 NOVATO  : 4
 
-REP TOTAL DO FORUM: 34
+REP TOTAL DO FORUM: 40
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 53
 
-PIONEIRO: 29
-ATIVO   : 3
-TROLL   : -1
+PIONEIRO: 21
+ATIVO   : 7
+TROLL   : 3
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 36
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 54
+
+PIONEIRO: 22
+ATIVO   : 7
+TROLL   : 3
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 37
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 55
+
+PIONEIRO: 20
+ATIVO   : 6
+TROLL   : 1
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 30
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 56
+
+PIONEIRO: 21
+ATIVO   : 6
+TROLL   : 1
+NOVATO  : 3
+
+REP TOTAL DO FORUM: 31
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 57
+
+PIONEIRO: 21
+ATIVO   : 8
+TROLL   : 2
 NOVATO  : 4
 
 REP TOTAL DO FORUM: 35
@@ -647,120 +695,72 @@ REP TOTAL DO FORUM: 35
 
 
 ====== REPUTACAO DO FORUM ======
-DIA     : 54
-
-PIONEIRO: 30
-ATIVO   : 3
-TROLL   : -1
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 36
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 55
-
-PIONEIRO: 30
-ATIVO   : 4
-TROLL   : -1
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 37
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 56
-
-PIONEIRO: 30
-ATIVO   : 4
-TROLL   : -1
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 37
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 57
-
-PIONEIRO: 28
-ATIVO   : 5
-TROLL   : -1
-NOVATO  : 4
-
-REP TOTAL DO FORUM: 36
-=================================
-
-
-====== REPUTACAO DO FORUM ======
 DIA     : 58
 
-PIONEIRO: 29
-ATIVO   : 5
-TROLL   : -1
-NOVATO  : 4
+PIONEIRO: 24
+ATIVO   : 7
+TROLL   : 2
+NOVATO  : 3
 
-REP TOTAL DO FORUM: 37
+REP TOTAL DO FORUM: 36
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 59
 
-PIONEIRO: 29
-ATIVO   : 7
-TROLL   : 3
-NOVATO  : 4
+PIONEIRO: 25
+ATIVO   : 6
+TROLL   : 1
+NOVATO  : 3
 
-REP TOTAL DO FORUM: 43
+REP TOTAL DO FORUM: 35
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 60
 
-PIONEIRO: 30
-ATIVO   : 7
-TROLL   : 3
-NOVATO  : 4
+PIONEIRO: 26
+ATIVO   : 6
+TROLL   : 1
+NOVATO  : 3
 
-REP TOTAL DO FORUM: 44
+REP TOTAL DO FORUM: 36
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 61
 
-PIONEIRO: 30
-ATIVO   : 6
+PIONEIRO: 27
+ATIVO   : 7
 TROLL   : 2
 NOVATO  : 4
-
-REP TOTAL DO FORUM: 42
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 62
-
-PIONEIRO: 30
-ATIVO   : 5
-TROLL   : 2
-NOVATO  : 3
 
 REP TOTAL DO FORUM: 40
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
+DIA     : 62
+
+PIONEIRO: 28
+ATIVO   : 7
+TROLL   : 2
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 41
+=================================
+
+
+====== REPUTACAO DO FORUM ======
 DIA     : 63
 
-PIONEIRO: 29
-ATIVO   : 4
-TROLL   : 1
-NOVATO  : 5
+PIONEIRO: 27
+ATIVO   : 8
+TROLL   : 0
+NOVATO  : 4
 
 REP TOTAL DO FORUM: 39
 =================================
@@ -769,10 +769,10 @@ REP TOTAL DO FORUM: 39
 ====== REPUTACAO DO FORUM ======
 DIA     : 64
 
-PIONEIRO: 30
-ATIVO   : 4
-TROLL   : 1
-NOVATO  : 5
+PIONEIRO: 28
+ATIVO   : 8
+TROLL   : 0
+NOVATO  : 4
 
 REP TOTAL DO FORUM: 40
 =================================
@@ -781,36 +781,36 @@ REP TOTAL DO FORUM: 40
 ====== REPUTACAO DO FORUM ======
 DIA     : 65
 
-PIONEIRO: 28
-ATIVO   : 4
-TROLL   : -1
-NOVATO  : 7
-
-REP TOTAL DO FORUM: 38
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 66
-
-PIONEIRO: 29
-ATIVO   : 4
-TROLL   : -1
-NOVATO  : 7
+PIONEIRO: 27
+ATIVO   : 7
+TROLL   : 0
+NOVATO  : 5
 
 REP TOTAL DO FORUM: 39
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
+DIA     : 66
+
+PIONEIRO: 26
+ATIVO   : 6
+TROLL   : 0
+NOVATO  : 4
+
+REP TOTAL DO FORUM: 36
+=================================
+
+
+====== REPUTACAO DO FORUM ======
 DIA     : 67
 
-PIONEIRO: 30
+PIONEIRO: 29
 ATIVO   : 6
-TROLL   : -1
-NOVATO  : 6
+TROLL   : 0
+NOVATO  : 4
 
-REP TOTAL DO FORUM: 41
+REP TOTAL DO FORUM: 39
 =================================
 
 
@@ -819,10 +819,10 @@ DIA     : 68
 
 PIONEIRO: 30
 ATIVO   : 5
-TROLL   : -1
-NOVATO  : 5
+TROLL   : 0
+NOVATO  : 3
 
-REP TOTAL DO FORUM: 39
+REP TOTAL DO FORUM: 38
 =================================
 
 
@@ -831,10 +831,10 @@ DIA     : 69
 
 PIONEIRO: 30
 ATIVO   : 6
-TROLL   : -1
-NOVATO  : 7
+TROLL   : 0
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 42
+REP TOTAL DO FORUM: 41
 =================================
 
 
@@ -843,10 +843,10 @@ DIA     : 70
 
 PIONEIRO: 30
 ATIVO   : 6
-TROLL   : -1
-NOVATO  : 7
+TROLL   : 0
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 42
+REP TOTAL DO FORUM: 41
 =================================
 
 
@@ -854,11 +854,11 @@ REP TOTAL DO FORUM: 42
 DIA     : 71
 
 PIONEIRO: 29
-ATIVO   : 8
-TROLL   : -1
-NOVATO  : 9
+ATIVO   : 7
+TROLL   : 4
+NOVATO  : 4
 
-REP TOTAL DO FORUM: 45
+REP TOTAL DO FORUM: 44
 =================================
 
 
@@ -866,23 +866,23 @@ REP TOTAL DO FORUM: 45
 DIA     : 72
 
 PIONEIRO: 30
-ATIVO   : 8
-TROLL   : -1
-NOVATO  : 9
+ATIVO   : 7
+TROLL   : 4
+NOVATO  : 4
 
-REP TOTAL DO FORUM: 46
+REP TOTAL DO FORUM: 45
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 73
 
-PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 3
-NOVATO  : 12
+PIONEIRO: 28
+ATIVO   : 7
+TROLL   : 2
+NOVATO  : 6
 
-REP TOTAL DO FORUM: 53
+REP TOTAL DO FORUM: 43
 =================================
 
 
@@ -890,23 +890,23 @@ REP TOTAL DO FORUM: 53
 DIA     : 74
 
 PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 3
-NOVATO  : 12
+ATIVO   : 6
+TROLL   : 2
+NOVATO  : 5
 
-REP TOTAL DO FORUM: 53
+REP TOTAL DO FORUM: 43
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 75
 
-PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 1
-NOVATO  : 12
+PIONEIRO: 29
+ATIVO   : 5
+TROLL   : 0
+NOVATO  : 7
 
-REP TOTAL DO FORUM: 51
+REP TOTAL DO FORUM: 41
 =================================
 
 
@@ -914,11 +914,11 @@ REP TOTAL DO FORUM: 51
 DIA     : 76
 
 PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 1
-NOVATO  : 12
+ATIVO   : 5
+TROLL   : 0
+NOVATO  : 7
 
-REP TOTAL DO FORUM: 51
+REP TOTAL DO FORUM: 42
 =================================
 
 
@@ -926,8 +926,8 @@ REP TOTAL DO FORUM: 51
 DIA     : 77
 
 PIONEIRO: 29
-ATIVO   : 7
-TROLL   : -1
+ATIVO   : 6
+TROLL   : 0
 NOVATO  : 10
 
 REP TOTAL DO FORUM: 45
@@ -938,8 +938,8 @@ REP TOTAL DO FORUM: 45
 DIA     : 78
 
 PIONEIRO: 30
-ATIVO   : 6
-TROLL   : -1
+ATIVO   : 5
+TROLL   : 0
 NOVATO  : 9
 
 REP TOTAL DO FORUM: 44
@@ -950,35 +950,35 @@ REP TOTAL DO FORUM: 44
 DIA     : 79
 
 PIONEIRO: 30
-ATIVO   : 5
-TROLL   : -1
-NOVATO  : 9
+ATIVO   : 6
+TROLL   : 0
+NOVATO  : 11
 
-REP TOTAL DO FORUM: 43
+REP TOTAL DO FORUM: 47
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 80
 
-PIONEIRO: 30
+PIONEIRO: 29
 ATIVO   : 5
-TROLL   : -1
-NOVATO  : 9
+TROLL   : 0
+NOVATO  : 10
 
-REP TOTAL DO FORUM: 43
+REP TOTAL DO FORUM: 44
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 81
 
-PIONEIRO: 30
-ATIVO   : 7
-TROLL   : -1
+PIONEIRO: 29
+ATIVO   : 8
+TROLL   : 0
 NOVATO  : 10
 
-REP TOTAL DO FORUM: 46
+REP TOTAL DO FORUM: 47
 =================================
 
 
@@ -986,11 +986,11 @@ REP TOTAL DO FORUM: 46
 DIA     : 82
 
 PIONEIRO: 30
-ATIVO   : 7
-TROLL   : -1
+ATIVO   : 8
+TROLL   : 0
 NOVATO  : 10
 
-REP TOTAL DO FORUM: 46
+REP TOTAL DO FORUM: 48
 =================================
 
 
@@ -998,105 +998,105 @@ REP TOTAL DO FORUM: 46
 DIA     : 83
 
 PIONEIRO: 30
-ATIVO   : 8
-TROLL   : -1
-NOVATO  : 12
+ATIVO   : 9
+TROLL   : 4
+NOVATO  : 11
 
-REP TOTAL DO FORUM: 49
+REP TOTAL DO FORUM: 54
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 84
 
-PIONEIRO: 29
-ATIVO   : 7
-TROLL   : -1
+PIONEIRO: 30
+ATIVO   : 9
+TROLL   : 4
 NOVATO  : 11
 
-REP TOTAL DO FORUM: 46
+REP TOTAL DO FORUM: 54
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 85
 
-PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 3
-NOVATO  : 12
+PIONEIRO: 29
+ATIVO   : 11
+TROLL   : 2
+NOVATO  : 10
 
-REP TOTAL DO FORUM: 53
+REP TOTAL DO FORUM: 52
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
 DIA     : 86
 
-PIONEIRO: 30
-ATIVO   : 8
-TROLL   : 3
-NOVATO  : 12
-
-REP TOTAL DO FORUM: 53
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 87
-
-PIONEIRO: 29
-ATIVO   : 10
-TROLL   : 1
-NOVATO  : 11
-
-REP TOTAL DO FORUM: 51
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 88
-
-PIONEIRO: 30
-ATIVO   : 9
-TROLL   : 1
-NOVATO  : 10
-
-REP TOTAL DO FORUM: 50
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 89
-
 PIONEIRO: 28
 ATIVO   : 10
-TROLL   : -1
-NOVATO  : 11
-
-REP TOTAL DO FORUM: 48
-=================================
-
-
-====== REPUTACAO DO FORUM ======
-DIA     : 90
-
-PIONEIRO: 29
-ATIVO   : 10
-TROLL   : -1
-NOVATO  : 11
+TROLL   : 2
+NOVATO  : 9
 
 REP TOTAL DO FORUM: 49
 =================================
 
 
 ====== REPUTACAO DO FORUM ======
+DIA     : 87
+
+PIONEIRO: 26
+ATIVO   : 9
+TROLL   : 0
+NOVATO  : 8
+
+REP TOTAL DO FORUM: 43
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 88
+
+PIONEIRO: 25
+ATIVO   : 8
+TROLL   : 0
+NOVATO  : 7
+
+REP TOTAL DO FORUM: 40
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 89
+
+PIONEIRO: 25
+ATIVO   : 10
+TROLL   : 0
+NOVATO  : 8
+
+REP TOTAL DO FORUM: 43
+=================================
+
+
+====== REPUTACAO DO FORUM ======
 DIA     : 90
 
 PIONEIRO: 28
-ATIVO   : 11
-TROLL   : -1
-NOVATO  : 10
+ATIVO   : 9
+TROLL   : 0
+NOVATO  : 7
 
-REP TOTAL DO FORUM: 48
+REP TOTAL DO FORUM: 44
+=================================
+
+
+====== REPUTACAO DO FORUM ======
+DIA     : 90
+
+PIONEIRO: 26
+ATIVO   : 11
+TROLL   : 0
+NOVATO  : 5
+
+REP TOTAL DO FORUM: 42
 =================================
