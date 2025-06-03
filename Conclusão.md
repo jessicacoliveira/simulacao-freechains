@@ -43,12 +43,12 @@ Foi observado que, ao realizarem sua primeira publicação, a reputação de alg
 # Conclusão
 Apesar das inconsistências encontradas, o sistema de reputação funcionou bem como filtro social: usuários com bom comportamento ganharam influência (mais reputação) no fórum, enquanto usuários com atitudes tóxicas foram naturalmente rejeitados pelos demais participantes.
 
-## Evolução do histórico de reputação:
+## Histórico de reputação do fórum:
 
-![Dia 0](prints/dia_0.jpg)
+![Dia 0](prints/dia_00.jpg)
 
-![Dia 30](prints/dia_30.jpg)
+![Dia 30](prints/dia_030.jpg)
 
-![Dia 60](prints/dia_60.jpg)
+![Dia 60](prints/dia_060.jpg)
 
-![Dia 90](prints/dia_90.jpg)
+![Dia 90](prints/dia_090.jpg)
