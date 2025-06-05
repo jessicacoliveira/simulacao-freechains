@@ -27,22 +27,8 @@ Observe no trecho abaixo que no dia 63 a reputação do Troll zerou. Nos dias 64
 
 Esse comportamento também foi observado com o ATIVO quando o mesmo teve a reputação zerada em algumas simulações. Sempre acontece após o usuário com reputação insuficiente tentar postar 4x sem sucesso.
 
-### Pioneiro não perde reputação ao postar
-
-Durante a simulação, observou-se que o `Pioneiro não perde reputação ao postar`.
-A publicação certamente está sendo aceita nos heads, uma vez que os demais participantes estão reagindo a ela.
-Além disso, embora postar não resulte em perda de reputação, o `Pioneiro passa a ganhar reputação após o período de 24 horas`. 
-
-![Diferença](prints/print_dif_pio.jpg)
-
-### Comportamento inconsistente na primeira postagem
-
-Foi observado que, ao realizarem sua primeira publicação, a reputação de alguns usuários cai para -1 e outros para 0. No entanto, quando o Pioneiro reage com um like a essas postagens, a reputação de todos é ajustada para 1, independentemente do valor anterior.
-
-![Diferença](prints/print_dif_inicial.jpg)
-
 # Conclusão
-Apesar das inconsistências encontradas, o sistema de reputação funcionou bem como filtro social: usuários com bom comportamento ganharam influência (mais reputação) no fórum, enquanto usuários com atitudes tóxicas foram naturalmente rejeitados pelos demais participantes.
+Apesar de algumas inconsistências observadas, possivelmente causadas por erros na escrita do script, o sistema de reputação funcionou de forma eficaz na regulação das mensagens: usuários com bom comportamento ganharam reputação gradualmente no fórum, enquanto aqueles com atitudes tóxicas foram rejeitados pelos demais participantes.
 
 ## Histórico de reputação do fórum:
 
