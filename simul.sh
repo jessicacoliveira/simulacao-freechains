@@ -283,8 +283,8 @@ showPost $ID_MSG $NOVATO_PORTA | tee -a "$OUTPUT_FILE_MSG"
 ./freechains chain ${FORUM_NAME} --port=$PIONEIRO_PORTA like $ID_MSG --sign=$PIONEIRO_PVTKEY
 
 ID_MSG=$(./freechains --host=localhost:$ATIVO_PORTA chain $FORUM_NAME post inline 'Ola, me aceite, por favor!' --sign=$ATIVO_PVTKEY)
-showPost $ID_MSG $ATIVO_PORTA | tee -a "$OUTPUT_FILE_MSG"
 ./freechains --host=localhost:$ATIVO_PORTA peer localhost:$PIONEIRO_PORTA send $FORUM_NAME
+showPost $ID_MSG $ATIVO_PORTA | tee -a "$OUTPUT_FILE_MSG"
 ./freechains chain $FORUM_NAME --port=$PIONEIRO_PORTA like $ID_MSG --sign=$PIONEIRO_PVTKEY
 
 ID_MSG=$(./freechains --host=localhost:$TROLL_PORTA chain $FORUM_NAME post inline 'Ola, me aceite, por favor!' --sign=$TROLL_PVTKEY)
